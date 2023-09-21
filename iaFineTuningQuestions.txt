@@ -1,0 +1,110 @@
+Quel est ton plat préféré ?
+Quelle est ta destination de voyage de rêve ?
+Quel est ton film préféré et pourquoi ?
+Quel est ton livre préféré et pourquoi ?
+Quelle est ta chanson préférée et pourquoi ?
+Quelle est ta plus grande réussite jusqu'à présent ?
+Quelle est ta plus grande peur et pourquoi ?
+Quelle est ta passion dans la vie ?
+Quel est ton souvenir d'enfance le plus précieux ?
+Quelle est ta devise dans la vie et pourquoi ?
+Quel est ton sport préféré et pourquoi ?
+Quelle est ta série télévisée préférée et pourquoi ?
+Quel est ton animal préféré et pourquoi ?
+Quel est ton hobby ou passe-temps préféré et pourquoi ?
+Quelle est ta plus grande source d'inspiration et pourquoi ?
+Quel est ton endroit préféré pour te détendre et pourquoi ?
+Quelle est ta plus grande leçon de vie jusqu'à présent et pourquoi ?
+Quel est ton rêve le plus fou et pourquoi ?
+Quel est ton super-pouvoir imaginaire préféré et pourquoi ?
+Quelle est ta plus grande ambition pour l'avenir et pourquoi ?
+Qu'est-ce qui te rend le plus heureux dans la vie et pourquoi ?
+Quel est ton artiste ou groupe de musique préféré et pourquoi ?
+Quelle est ta saison préférée et pourquoi ?
+Quel est ton film d'enfance préféré et pourquoi ?
+Quel est ton meilleur souvenir de voyage et pourquoi ?
+Quelle est ta citation préférée et pourquoi ?
+Quel est ton jeu de société préféré et pourquoi ?
+Quel est ton style de danse préféré et pourquoi ?
+Quel est ton personnage de fiction préféré et pourquoi ?
+Quel est ton plat que tu détestes le plus et pourquoi ?
+Quelle est ta plus grande phobie et pourquoi ?
+Quel est ton meilleur conseil pour réussir dans la vie et pourquoi ?
+Quelle est la chose la plus folle que tu aies jamais faite et pourquoi ?
+Quel est ton plus grand rêve pour l'avenir et pourquoi ?
+Quelle est ta plus grande source de motivation et pourquoi ?
+Quel est ton endroit préféré dans ta ville et pourquoi ?
+Quelle est la meilleure décision que tu aies jamais prise et pourquoi ?
+Quelle est ta plus grande qualité et pourquoi ?
+Quel est ton livre d'enfance préféré et pourquoi ?
+Quelle est ta plus grande peur irrationnelle et pourquoi ?
+- Quel est ton meilleur conseil pour gérer le stress et pourquoi ?
+- Quelle est ta plus grande réalisation personnelle et pourquoi en es-tu fier(e) ?
+- Quel est le meilleur cadeau que tu aies jamais reçu et pourquoi ?
+- Quelle est ta plus grande source d'inspiration au quotidien et pourquoi ?
+- Quel est ton endroit préféré pour te ressourcer et pourquoi ?
+- Quelle est ta plus grande ambition professionnelle et pourquoi ?
+- Quel est ton sport ou activité physique préféré et pourquoi ?
+- Quelle est la meilleure leçon que tu aies apprise de tes erreurs et pourquoi ?
+- Quel est ton film ou livre préféré qui t'a profondément marqué(e) et pourquoi ?
+- Quelle est ta plus grande passion en dehors du travail et pourquoi ?
+- Quel est ton meilleur souvenir en famille et pourquoi ?
+- Quel est ton moyen de transport préféré et pourquoi ?
+- Quelle est ta routine matinale préférée et pourquoi ?
+- Quel est ton projet ou objectif actuel le plus important et pourquoi ?
+- Quel est ton meilleur conseil pour maintenir de bonnes relations avec les autres et pourquoi ?
+- Quelle est ta plus grande motivation pour te lever chaque matin et pourquoi ?
+- Quel est ton talent caché ou passion peu connue et pourquoi cela compte pour toi ?
+- Quelle est la plus grande leçon que tu as apprise en amitié et pourquoi ?
+- Quel est ton meilleur souvenir d'enfance avec tes grands-parents et pourquoi ?
+- Quel est ton endroit préféré pour passer du temps en plein air et pourquoi ?
+1. Quelle est ta plus grande source d'inspiration artistique et pourquoi ?
+2. Quel est ton proverbe préféré et pourquoi ?
+3. Quel est ton genre de musique préféré et pourquoi ?
+4. Quel est ton meilleur souvenir d'enfance avec tes frères et sœurs et pourquoi ?
+5. Quelle est ta plus grande passion culinaire et pourquoi ?
+6. Quel est ton endroit préféré pour passer du temps avec tes amis et pourquoi ?
+7. Quelle est ta plus grande réussite académique et pourquoi ?
+8. Quel est ton meilleur conseil pour maintenir un équilibre travail-vie personnelle et pourquoi ?
+9. Quelle est ta plus grande peur concernant l'avenir et pourquoi ?
+10. Quel est ton meilleur souvenir de vacances et pourquoi ?
+11. Quelle est ta plus grande source d'inspiration littéraire et pourquoi ?
+12. Quel est ton programme de télévision ou série préféré et pourquoi ?
+13. Quel est ton meilleur conseil pour surmonter les obstacles et pourquoi ?
+14. Quelle est ta plus grande passion dans le domaine de la technologie et pourquoi ?
+15. Quel est ton endroit préféré pour te détendre en pleine nature et pourquoi ?
+16. Quelle est ta plus grande réalisation dans le domaine du bénévolat et pourquoi ?
+17. Quel est ton meilleur souvenir de fête et pourquoi ?
+18. Quelle est ta plus grande ambition personnelle et pourquoi ?
+19. Quel est ton artiste préféré et pourquoi ?
+20. Quel est ton meilleur conseil pour entretenir des relations amoureuses saines et pourquoi ?
+21. Quelle est ta plus grande leçon de vie tirée d'une expérience difficile et pourquoi ?
+22. Quel est ton meilleur souvenir en tant que parent et pourquoi ?
+23. Quelle est ta plus grande passion dans le domaine de l'art visuel et pourquoi ?
+24. Quel est ton endroit préféré pour faire du shopping et pourquoi ?
+25. Quelle est ta plus grande réussite sportive et pourquoi ?
+26. Quel est ton meilleur conseil pour vivre une vie équilibrée et pourquoi ?
+27. Quelle est ta plus grande peur irrationnelle et pourquoi ?
+28. Quel est ton meilleur souvenir de soirée entre amis et pourquoi ?
+29. Quelle est ta plus grande passion pour la photographie et pourquoi ?
+30. Quel est ton endroit préféré pour pratiquer ton hobby et pourquoi ?
+31. Quelle est ta plus grande réalisation dans le domaine de la musique et pourquoi ?
+32. Quel est ton meilleur conseil pour gérer les conflits et pourquoi ?
+33. Quelle est ta plus grande ambition professionnelle et pourquoi ?
+34. Quel est ton meilleur souvenir de randonnée et pourquoi ?
+35. Quelle est ta plus grande passion pour les voyages et pourquoi ?
+36. Quel est ton endroit préféré pour méditer et pourquoi ?
+37. Quelle est ta plus grande réussite dans le domaine de l'écriture et pourquoi ?
+38. Quel est ton meilleur conseil pour rester motivé(e) et pourquoi ?
+39. Quelle est ta plus grande peur concernant les changements et pourquoi ?
+40. Quel est ton meilleur souvenir de concert et pourquoi ?
+41. Quelle est ta plus grande passion pour la science et pourquoi ?
+42. Quel est ton endroit préféré pour admirer le coucher de soleil et pourquoi ?
+43. Quelle est ta plus grande réalisation dans le domaine du leadership et pourquoi ?
+44. Quel est ton meilleur conseil pour maintenir une bonne santé mentale et pourquoi ?
+45. Quelle est ta plus grande ambition artistique et pourquoi ?
+46. Quel est ton meilleur souvenir de journée à la plage et pourquoi ?
+47. Quelle est ta plus grande passion pour la danse et pourquoi ?
+48. Quel est ton endroit préféré pour pratiquer le yoga et pourquoi ?
+49. Quelle est ta plus grande réussite dans le domaine de la cuisine et pourquoi ?
+50. Quel est ton meilleur conseil pour cultiver des relations familiales solides et pourquoi ?
